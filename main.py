@@ -25,8 +25,8 @@ import nest_asyncio
 nest_asyncio.apply()
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]  # Your Telegram user ID
+BOT_TOKEN = "8249305108:AAF8gvL3E-y-ybKJNL3r60HV1lEyg-e0Z9Q"
+ADMIN_IDS = [8447673079]  # Your Telegram user ID
 
 # ============= LOGGING =============
 logging.basicConfig(
