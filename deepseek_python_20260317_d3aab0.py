@@ -24,8 +24,8 @@ import nest_asyncio
 nest_asyncio.apply()
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]  # Your Telegram user ID(s)
+BOT_TOKEN = "8249305108:AAEkmWL0gu8zz5ikFyxJAbuWdTGwrFIhJ5g"
+ADMIN_IDS = [8447673079]  # Your Telegram user ID(s)
 API_BASE_URL = "https://gold-newt-367030.hostingersite.com/api.php"
 PROXY_CHECK_URL = "https://gold-newt-367030.hostingersite.com/proxy_check.php"
 HIT_FORWARD_URL = "http://38.247.64.186:5001/hit-forward"
